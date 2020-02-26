@@ -25,7 +25,7 @@
 
 <main>
 
-<img src="" alt="Quorra" />
+<img src="img/quorra.jpg" alt="Quorra" />
 
  <ul>
         <li><strong>Owner of:</strong> Erin</li>
