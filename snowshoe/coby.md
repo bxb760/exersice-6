@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Meet the Cats | Coby</title>
+    <link href="css/style.css" rel""stylesheet"/>
   </head>
 
   <body>
@@ -25,7 +26,7 @@
 
 <main>
 
-<img src="" alt="Coby" />
+<img src="img/coby.jpg" alt="Coby" />
 
  <ul>
         <li><strong>Owner of:</strong> Kevin</li>
