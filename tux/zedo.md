@@ -25,7 +25,7 @@
 
  <main>
 
- <img src="" alt="Zedo" />
+ <img src="img/zedo.jpg" alt="Zedo" />
  <ul>
         <li><strong>Owner of:</strong> Bryce</li>
         <li><strong>Type:</strong> Tuxedo</li>
