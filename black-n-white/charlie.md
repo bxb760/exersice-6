@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Meet the Cats | Charlie</title>
+    <link href="css/style.css" rel""stylesheet"/>
   </head>
 
   <body>
@@ -25,7 +26,7 @@
 
 <main>
 
- <img src="" alt="Charlie" />
+ <img src="img/charlie.jpg" alt="Charlie" />
 
  <ul>
         <li><strong>Owner of:</strong> Daren</li>
